@@ -9,7 +9,7 @@ class DaysPagerAdapter(val timetable: ArrayList<Class>, fm: FragmentManager) : F
 
     override fun getItem(position: Int): Fragment = DayFragment.new(position + 1, timetable)
 
-    override fun getCount(): Int = 5
+    override fun getCount(): Int = 6
 
     /**
      * I hardcoded day strings since this is a personal app that won't be shared or translated.
