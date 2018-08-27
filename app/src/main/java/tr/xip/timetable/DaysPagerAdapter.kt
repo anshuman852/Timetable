@@ -22,6 +22,7 @@ class DaysPagerAdapter(val timetable: ArrayList<Class>, fm: FragmentManager) : F
             2 -> return "Wednesday"
             3 -> return "Thursday"
             4 -> return "Friday"
+            5 -> return "Saturday"
             else -> return "?"
         }
     }
