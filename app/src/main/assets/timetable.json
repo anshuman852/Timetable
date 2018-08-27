@@ -1,82 +1,82 @@
 [
   {
     "id": 0,
-    "name": "Programming Languages",
-    "prof": "Zeynep Orhan / Zerina Masetic / Enis Gegic",
-    "place": "ITLab216 | ITLab316 | Room 215",
+    "name": "Applied MatheMatics-1(ALL)",
+    "prof": "Minati Pradhan",
+    "place": "Room 427",
     "day": 1,
-    "startTime": 9,
-    "endTime": 11
+    "startTime": 8,
+    "endTime": 9
   },
   {
     "id": 1,
-    "name": "Data Structures",
-    "prof": "Amar Saric / Becir Isakovic",
-    "place": "ITLab216",
+    "name": "APHY-LAB(GR-1)/ B.E.E-LAB(GR-2)",
+    "prof": "Jyotiranjan Mohanty,RadhaRaman Padhi / Rojalin Rout",
+    "place": "Room 427 / Room 110",
     "day": 1,
-    "startTime": 11,
+    "startTime": 9,
     "endTime": 12
   },
   {
     "id": 2,
-    "name": "General Physics II",
-    "prof": "Serkan Balyimez",
-    "place": "Room 215",
+    "name": "E.C.S(ALL)",
+    "prof": "Pranati Mishra",
+    "place": "Room 427",
     "day": 1,
     "startTime": 13,
-    "endTime": 15
+    "endTime": 14
   },
   {
     "id": 3,
-    "name": "Bosnian Language II",
-    "prof": "Izudin Tatarevic",
-    "place": "Room 215",
+    "name": "B.E.E(ALL)",
+    "prof": "Ganesh Prasad Khuntia",
+    "place": "Room 427",
     "day": 1,
-    "startTime": 15,
-    "endTime": 17
-  },
-  {
-    "id": 4,
-    "name": "Data Structures",
-    "prof": "Amar Saric / Becir Isakovic",
-    "place": "ITLab316",
-    "day": 2,
-    "startTime": 9,
-    "endTime": 11
-  },
-  {
-    "id": 5,
-    "name": "Calculus II",
-    "prof": "Nermina Durmic",
-    "place": "Room 215",
-    "day": 2,
-    "startTime": 12,
-    "endTime": 13
-  },
-  {
-    "id": 6,
-    "name": "Calculus II LAB",
-    "prof": "Dino Keco",
-    "place": "Room 215",
-    "day": 2,
-    "startTime": 13,
+    "startTime": 14,
     "endTime": 15
   },
   {
-    "id": 7,
-    "name": "Production Management",
-    "prof": "Nermina Durmic",
-    "place": "Room 215",
-    "day": 3,
-    "startTime": 9,
+    "id": 4,
+    "name": "APHY(ALL)",
+    "prof": "Jyotiranjan Mohanty",
+    "place": "Room 427",
+    "day": 1,
+    "startTime": 15,
+    "endTime": 16
+  },
+  {
+    "id": 5,
+    "name": "B.M.E-LAB(GR-1) / APHY-LAb(GR-2)",
+    "prof": "Abhinash Samanta / Jyotiranjan Mohanty, Radharaman Padhi",
+    "place": "Room 113 / Room 417",
+    "day": 2,
+    "startTime": 8,
     "endTime": 11
+  },
+  {
+    "id": 6,
+    "name": "B.M.E(ALL)",
+    "prof": "Abhinash Samanta",
+    "place": "Room 324",
+    "day": 2,
+    "startTime": 11,
+    "endTime": 12
+  },
+  {
+    "id": 7,
+    "name": "APHY(ALL)",
+    "prof": "Jyotiranjan Mohanty",
+    "place": "Room 427",
+    "day": 2,
+    "startTime": 13,
+    "endTime": 14
   },
   {
     "id": 8,
     "name": "Programming Languages LAB",
     "prof": "Zeynep Orhan / Zerina Masetic / Enis Gegic",
     "place": "ITLab316 | ITLab216 | Room 215",
-    "day": 3,
+    "day": 6,
     "startTime": 11,
     "endTime": 13
   },
